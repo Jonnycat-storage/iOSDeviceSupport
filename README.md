@@ -1,7 +1,7 @@
 # iOSDeviceSupport
-各个版本的iOS Device Support, 最新支持 **iOS 16.6** [<u>Github</u>](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) [<u>Gitee</u>](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) 
-* Github仓库: [https://github.com/JinjunHan/iOSDeviceSupport](https://github.com/JinjunHan/iOSDeviceSupport)
-* Gitee仓库: [https://gitee.com/Han0/iOSDeviceSupport](https://gitee.com/Han0/iOSDeviceSupport)
+various versions of iOS Device Support, various versions **iOS 16.6** [<u>Github</u>](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) [<u>Gitee</u>](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) 
+* Github: [https://github.com/JinjunHan/iOSDeviceSupport](https://github.com/JinjunHan/iOSDeviceSupport)
+* Gitee: [https://gitee.com/Han0/iOSDeviceSupport](https://gitee.com/Han0/iOSDeviceSupport)
 
 # iOS 17
 ### Solution 1
@@ -15,9 +15,9 @@ And contain above 16.4 DeviceSupport in Xcode
 Then Restart the Xcode 14, Try it!
 
 ## Usage
-从下面的表中找到对应的版本下载，移动到Xcode目录
+Find the corresponding version to download from the table below and move it to the Xcode directory
 
-终端输入命令直接打开文件夹:
+Enter the command in the terminal to open the folder directly:
 ```
 open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 ```
@@ -25,7 +25,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 ## Download
 
 ### iOS
-Cilick link to download.
+Click the link to download.
 | Version | Source1 | Source2 |
 | --- | --- | --- |
 | iOS 16.6 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) |
