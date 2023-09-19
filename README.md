@@ -127,6 +127,7 @@ Click the link to download.
 | WatchOS 4.1 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/4.1.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/4.1.zip) |
 | WatchOS 4.0 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/4.0.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/4.0.zip) |
 
-喜欢的点个star,方便下次再来^_^。
-欢迎提交Pull Requests一起维护
+
+If you like it, please give it a star so that you can come back next time ^_^.
+Welcome to submit Pull Requests for maintenance together.
 
