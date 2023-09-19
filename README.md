@@ -5,7 +5,7 @@
 
 # iOS 17
 ### Solution 1
-Download the Xcode 15, hahaha
+Download the Xcode 15
 ### Solution 2
 In the terminal run:
 ```
